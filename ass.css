@@ -1,0 +1,201 @@
+@import url('https://fonts.googleapis.com/css2?family=Kurale&family=Merriweather&family=Noto+Serif:ital@0;1&family=Roboto+Condensed:ital@1&family=Roboto:ital@1&display=swap');
+/*
+font-family: 'Kurale', serif;
+font-family: 'Merriweather', serif;
+font-family: 'Roboto', sans-serif;
+font-family: 'Roboto Condensed', sans-serif;
+font-family: 'Noto Serif', serif;
+font-family: 'Suravaram', serif;
+*/
+
+.border{
+    height: 400px;
+    width: 800px;
+    margin-top: 150px;
+    margin-left: 100px;
+    padding-top: 10px;
+    box-sizing: border-box;
+}
+.bord{
+    height:95px;
+    width: 500px;
+    border-left: 4px solid rgba(255, 166, 0, 0.878); 
+    box-sizing: border-box;
+    padding-bottom: 15px;   
+}
+.font{
+    margin-top: 0px;
+    font-size: 45px;
+    font-family: 'Suravaram', serif; 
+    padding-top: 0px; 
+
+}
+.mission{
+    font-size: 45px;
+    font-family: 'Suravaram', serif;
+    color:rgb(255, 0, 0);
+}
+.para{
+    font: size 15px;
+    height:90px;
+    width: 400px;
+    padding-top: 15px;
+}
+.details{
+    text-decoration: none;
+    background-image: linear-gradient(orange,tomato);
+    padding: 10px 20px;
+    font-size: 15px;
+    border-radius: 6px;
+    padding-right: 10px;
+
+}
+.click{
+    font: size 15px;
+    height:90px;
+    width: 400px;
+    padding-left:5px;
+    padding-right: 10px;
+}
+.image{
+    width: 400px;
+    height:500px;
+}
+section{
+    display: flex;
+}
+.point{
+    font-size: 35px;
+    font-family: 'Kurale', serif;
+    margin-left: 550px;
+}
+.year{
+    color:rgb(255, 0, 0);
+}
+.text{
+    font-family: 'Kurale', serif;
+}
+.learn{
+    height: 300px;
+    width: 300px;
+    background-color: tan;
+    border-radius: 15px;
+    margin-top: 10px;
+    margin-left: 100px;
+    box-sizing: border-box;
+}
+.illu1{
+    height: 150px;
+    width: 150px;
+    margin-left: 15px;
+}
+.name1{
+    font-family: 'Kurale', serif;
+    font-size: 20px;
+    margin-left:50px ;
+
+}
+.think{
+    height: 300px;
+    width: 300px;
+    background-color:wheat;
+    border-radius: 15px;
+    margin-top: 10px;
+    margin-left: 100px;
+    box-sizing: border-box;
+}
+.illu2{
+    height: 150px;
+    width: 150px;
+    margin-left: 15px;
+}
+.name2{
+     font-family: 'Kurale', serif;
+    font-size: 20px;
+    margin-left: 60px;
+
+}
+.work{
+    height: 300px;
+    width: 300px;
+    background-color:salmon;
+    border-radius: 15px;
+    margin-top: 10px;
+    margin-left: 100px;
+    box-sizing: border-box;
+}
+.illu3{
+    height: 150px;
+    width: 150px;
+    margin-left: 15px;
+}
+.name3{
+     font-family: 'Kurale', serif;
+    font-size: 20px;
+    margin-left: 60px;
+
+}
+.shape1{
+    height: 200px;
+    width: 200px;
+    margin-top: 150px;
+    margin-left: 25px;
+}
+.pic1{
+    width: 300px;
+    height: 300px;
+    border-radius: 15px;
+    margin-top: 80px;
+    margin-left: 100px;
+}
+.dev{
+    font-family: 'Merriweather', serif;
+    font-size: 50px;
+    margin-left: 15px;
+    margin-top:120px ;
+}
+.ana{
+    font-size: 25px;
+    margin-left: 15px;
+
+}
+.link1{
+    text-decoration: none;
+    background-image: linear-gradient(orange,tomato);
+    padding: 10px 20px;
+    font-size: 15px;
+    border-radius: 6px;
+    padding-right: 10px;
+    margin-left: 15px;
+}
+.pic2{
+    width: 300px;
+    height: 300px;
+    border-radius: 15px;
+    margin-top: 80px;
+    margin-right:50px;
+}
+.global{
+    font-family: 'Merriweather', serif;
+    font-size: 50px;
+    margin-left: 100px;
+    margin-top:120px ;
+
+}
+.com{
+    font-size: 25px;
+    margin-left: 100px;
+
+}
+.link2{
+    text-decoration: none;
+    background-image: linear-gradient(orange,tomato);
+    padding: 10px 20px;
+    font-size: 15px;
+    border-radius: 6px;
+    padding-right: 10px;
+    margin-left: 100px;
+}
+
+
+
