@@ -24,11 +24,8 @@ font-family: 'Suravaram', serif;
     padding-bottom: 15px;   
 }
 .font{
-    margin-top: 0px;
     font-size: 45px;
-    font-family: 'Suravaram', serif; 
-    padding-top: 0px; 
-
+    font-family: 'Suravaram', serif;  
 }
 .mission{
     font-size: 45px;
@@ -41,13 +38,14 @@ font-family: 'Suravaram', serif;
     width: 400px;
     padding-top: 15px;
 }
-.details{
+.link{
     text-decoration: none;
     background-image: linear-gradient(orange,tomato);
-    padding: 10px 20px;
+    padding: 10px 15px;
     font-size: 15px;
     border-radius: 6px;
     padding-right: 10px;
+    font-size: 15px;
 
 }
 .click{
@@ -82,7 +80,8 @@ section{
     border-radius: 15px;
     margin-top: 10px;
     margin-left: 100px;
-    box-sizing: border-box;
+    padding:0px 5px;
+    /*box-sizing: border-box;*/
 }
 .illu1{
     height: 150px;
@@ -102,7 +101,8 @@ section{
     border-radius: 15px;
     margin-top: 10px;
     margin-left: 100px;
-    box-sizing: border-box;
+    padding: 0px 5px;
+   /* box-sizing: border-box;*/
 }
 .illu2{
     height: 150px;
@@ -122,7 +122,8 @@ section{
     border-radius: 15px;
     margin-top: 10px;
     margin-left: 100px;
-    box-sizing: border-box;
+    padding: 0px 5px;
+   /* box-sizing: border-box;*/
 }
 .illu3{
     height: 150px;
@@ -196,6 +197,71 @@ section{
     padding-right: 10px;
     margin-left: 100px;
 }
+.diff-color{
+    margin-top: 80px;
+    margin-left:510px;
+    font-size:70px;
+    font-family: 'Kurale', serif;
+
+}
+.illu4{
+    height:550px;
+    width: 550px;
+    margin-top:30px;
+    margin-left: 150px;
+}
+.bu{
+    color:lightcoral;
+}
+.u{
+    color:peru;
+}
+.mistake{
+    margin-left:50px;
+    margin-top: 150px;
+    font-family: 'Kurale', serif;
+    font-size: 50px;
+    
+}
+.take{
+    color: royalblue;
+}
+.make{
+    color: violet;
+    margin-left: 80px;
+}
+.line{
+    font-size: 20px;
+    margin: 0px 50px;
+}
+.link3{
+    text-decoration: none;
+    background-image: linear-gradient(orange,tomato);
+    padding: 10px 20px;
+    font-size: 15px;
+    border-radius: 6px;
+    padding-right: 10px;
+    margin-left: 50px;
+}
+.black{
+    margin-top: 100px;
+    height: 150px;
+    width: 1500px;
+    border: 1px solid saddlebrown;
+    text-align: center;
+    padding-top: 10px;
+    box-sizing:border-box;
+    font-size: 25px;
+    font-family: 'Roboto', sans-serif;
+    color: white;
+    background-color: black;
+}
+
+
+
+
+
+
 
 
 
